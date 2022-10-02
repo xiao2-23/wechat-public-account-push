@@ -40,6 +40,14 @@ export const config = {
       city: "合肥",
       openUrl: "huyc.top"
     }, 
+    {
+      name: "小胖子", 
+      id: "ofKom6hHrHkht0HNCgy4E0YKEJWw",
+      useTemplateId: "vMOOLRBqEp5WRdzB55HoR0AN3Mvu0mcCXPHkwAR3AVk",
+      province: "安徽",
+      city: "合肥",
+      openUrl: "huyc.top"
+    }, 
    
   ],
 
@@ -65,7 +73,9 @@ export const config = {
    */
   FESTIVALS: [
     {"type": "生日", "name": "小一", "year": "2000", "date": "02-23"},
-    {"type": "节日", "name": "在一的日子", "year": "2021", "date": "05-06"},
+    {"type": "节日", "name": "在一起的日子", "year": "2021", "date": "05-06"},
+     {"type": "生日", "name": "小胖子", "year": "2000", "date": "02-23"},
+    {"type": "节日", "name": "在一起的日子", "year": "2021", "date": "05-06"},
   ],
 
   /**
